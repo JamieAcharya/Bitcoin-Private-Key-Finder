@@ -13,3 +13,18 @@ To run this program on Windows follow these steps:
 7. Wait some more
 8. If the program finds the address you will be prompted with the public address and its corresponding private key
 9. The program will always save this to a text file within the directory named: foundaddress.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BTC Donation: 14feiEZfYkmvppVXzJA2SnZ1y4BsvwCFRk
