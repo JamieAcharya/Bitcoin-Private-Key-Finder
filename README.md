@@ -7,7 +7,7 @@ To run this program on Windows follow these steps:
 1. Download btcadress.jar and place it into a directory
 2. Open that directory within CMD (command prompt)
 3. Type in this Command:  java -jar btcaddress.jar
-4. You will then be prompted to insert a BTC adress, insert the address you wish to find the Private Key for
+4. You will then be prompted to insert a BTC address, insert the address you wish to find the Private Key for
 5. Ignore the any Logger Load Class errors/issues
 6. Wait for the program to find the private key that matches the public address you entered
 7. Wait some more
