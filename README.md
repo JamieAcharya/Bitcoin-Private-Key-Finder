@@ -13,6 +13,7 @@ To run this program on Windows follow these steps:
 7. Wait some more
 8. If the program finds the address you will be prompted with the public address and its corresponding private key
 9. The program will always save this to a text file within the directory named: foundaddress.txt
+10. This is an useless application with no display output. So dont waste your time.
 
 
 
@@ -26,5 +27,4 @@ To run this program on Windows follow these steps:
 
 
 
-
-BTC Donation: 14feiEZfYkmvppVXzJA2SnZ1y4BsvwCFRk
+BTC Donation: bc1qj3twtns6hqsvz7sjj8kcma963lsnf68zrcnt9e
